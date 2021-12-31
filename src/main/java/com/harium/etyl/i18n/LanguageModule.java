@@ -4,8 +4,8 @@ import com.harium.etyl.commons.context.Context;
 import com.harium.etyl.commons.event.GUIEvent;
 import com.harium.etyl.commons.event.KeyEvent;
 import com.harium.etyl.commons.event.PointerEvent;
+import com.harium.etyl.commons.graphics.Graphics;
 import com.harium.etyl.commons.module.Module;
-import com.harium.etyl.core.graphics.Graphics;
 
 import java.util.ArrayList;
 import java.util.List;
