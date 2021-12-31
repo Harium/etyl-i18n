@@ -6,6 +6,6 @@ Etyl's Internalization module
 <dependency>
     <groupId>com.harium.etyl</groupId>
     <artifactId>i18n</artifactId>
-    <version>1.0.1</version>
+    <version>1.4.0</version>
 </dependency>
 ```
